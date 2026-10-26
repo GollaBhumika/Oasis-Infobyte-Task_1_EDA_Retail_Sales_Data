@@ -1,0 +1,38 @@
+OASIS INFOBYTE INTERNSHIP
+TASK 1: RETAIL SALES EDA
+
+Total rows: 302010
+Total columns: 30
+Duplicate rows: 4
+
+MISSING VALUES
+Transaction_ID      333
+Customer_ID         308
+Name                382
+Email               347
+Phone               362
+Address             315
+City                248
+State               281
+Zipcode             340
+Country             271
+Age                 173
+Gender              317
+Income              290
+Customer_Segment    215
+Date                359
+Year                350
+Month               273
+Time                350
+Total_Purchases     361
+Amount              357
+Total_Amount        350
+Product_Category    283
+Product_Brand       281
+Product_Type          0
+Feedback            184
+Shipping_Method     337
+Payment_Method      297
+Order_Status        235
+Ratings             184
+products              0
